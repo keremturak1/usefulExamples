@@ -7,9 +7,9 @@ public class Question002 {
 
 	// parametre olarak girilen harfe göre ikinci harfi girilen harf ile(kullanıcıdan da alınabilir)
 	// bulunan şehirleri ilk üç harfini büyük bastıran metod
-	// ören "a"
+	// örnek "a"
 	// bayburt = BAY
-	// karaman = Kar
+	// karaman = KAR
 
 
 
